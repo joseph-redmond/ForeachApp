@@ -1,8 +1,8 @@
-﻿using ForeachKnowledgeProofLibrary.Models;
+﻿using ForeachLibrary.Models;
 using System;
 using System.Collections.Generic;
 
-namespace ForeachKnowledgeProof
+namespace ForeachUiS
 {
     class Program
     {

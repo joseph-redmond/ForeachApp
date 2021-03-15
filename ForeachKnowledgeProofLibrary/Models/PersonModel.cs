@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace ForeachKnowledgeProofLibrary.Models
+namespace ForeachLibrary.Models
 {
     public class PersonModel
     {
