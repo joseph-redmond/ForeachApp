@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ForeachKnowledgeProofLibrary\ForeachKnowledgeProofLibrary.csproj" />
+    <ProjectReference Include="..\ForeachKnowledgeProofLibrary\ForeachLibrary.csproj" />
   </ItemGroup>
 
 </Project>

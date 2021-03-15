@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31019.35
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForeachKnowledgeProof", "ForeachKnowledgeProof\ForeachKnowledgeProof.csproj", "{94122E82-6B35-44F8-85FA-6837411E2C47}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForeachUI", "ForeachKnowledgeProof\ForeachUI.csproj", "{94122E82-6B35-44F8-85FA-6837411E2C47}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForeachKnowledgeProofLibrary", "ForeachKnowledgeProofLibrary\ForeachKnowledgeProofLibrary.csproj", "{DE46CEE3-F992-4300-AD72-80F1ADE40E8E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForeachLibrary", "ForeachKnowledgeProofLibrary\ForeachLibrary.csproj", "{DE46CEE3-F992-4300-AD72-80F1ADE40E8E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
